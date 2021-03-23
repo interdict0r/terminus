@@ -1,0 +1,5 @@
+﻿cl : command line warning D9025: overriding '/std:c++17' with '/std:c++latest'
+  visuals.cpp
+  hooks.cpp
+  Generating Code...
+  csgo-cheat.vcxproj -> C:\Users\Administrator\Desktop\Terminus\.\output\debug\csgo-cheat.dll
